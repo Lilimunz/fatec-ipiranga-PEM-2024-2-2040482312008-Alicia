@@ -1,1 +1,1 @@
-# Fazer entrega das atividades da disciplina Pogramação Estruturada Modular
+# Entrega das atividades da disciplina Pogramação Estruturada Modular
